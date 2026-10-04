@@ -1,61 +1,53 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Hi, I'm Shafi 👋
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+### Full-Stack Developer | Software Engineer | Managing Partner at MDIGITZ Soft Solutions
 
-## About Laravel
+I’m a software developer focused on building practical, scalable web and mobile applications.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+I work across **backend development, mobile applications, APIs, databases, and deployment**, with a strong interest in building products that solve real-world problems.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### 🚀 What I Work With
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Backend:** Laravel, PHP, Django, Python, REST APIs
+- **Frontend:** React, React Native, TypeScript, JavaScript
+- **Mobile:** React Native, Flutter, Expo, Android
+- **Database:** MySQL, PostgreSQL, Supabase
+- **Tools & DevOps:** Git, GitHub, Docker, Linux, Nginx
+- **Integrations:** WhatsApp Business API, Firebase/FCM, Payment Gateways, Google Maps
+- **Other:** WordPress, WooCommerce, Digital Marketing
 
-## Learning Laravel
+### 💼 Projects & Products
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+I work on software products and client projects including:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- 🏠 **Real Estate & Rental Platforms**
+- 👷 **Migrant Worker Management Systems**
+- 📱 **Mobile Applications**
+- 💬 **WhatsApp CRM & Business Automation**
+- 📋 **Task & Project Management Systems**
+- 🌐 **Business Websites & Web Applications**
+- 📊 **Digital Marketing Solutions**
 
-## Laravel Sponsors
+### 🛠️ Current Focus
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- Building scalable Laravel & Django APIs
+- React Native & Flutter mobile applications
+- Business automation using WhatsApp APIs
+- Cloud deployment and server management
+- Product development and SaaS solutions
 
-### Premium Partners
+### 📈 GitHub
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+I use GitHub for developing, maintaining, and collaborating on software projects.
 
-## Contributing
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 📫 Connect With Me
 
-## Code of Conduct
+- 💼 **Company:** MDIGITZ Soft Solutions
+- 🌐 **Location:** Kerala, India
+- 💻 **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+> Building software that solves real problems.
